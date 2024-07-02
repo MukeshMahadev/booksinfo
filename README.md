@@ -26,7 +26,7 @@ This project can act as a backend that can enable websites that show info about 
 
 1. **Database Setup:**
 - Ensure PostgreSQL is installed and running.
-- Update database connection details in `database.py` or environment variables.
+- Update database connection details in `database.py`
 
 ## Running the Application
 
