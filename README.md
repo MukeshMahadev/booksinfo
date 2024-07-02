@@ -1,6 +1,6 @@
 # Booksinfo Backend 
 
-This project can act as a backend that can enable websites that shows info about books and their reviews.
+This project can act as a backend that can enable websites that show info about books and their reviews.
 
 ## Features
 
